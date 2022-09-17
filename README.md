@@ -6,7 +6,7 @@
 
 
 Yusuf-A-Shuaib/Yusuf-A-Shuaib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.</br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yusuf-A-Shuaib&repo=my-portfolio)](https://github.com/anuraghazra/github-readme-stats)</br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yusuf-A-Shuaib&repo=my-portfolio)](https://github.com/Yusuf-A-Shuaib/my-portfolio)</br>
 Here are some ideas to get you started:</br>
 
 🔭 I’m currently working on ...</br>
