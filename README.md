@@ -1,7 +1,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yusuf-A-Shuaib&theme=neon-dark&border=3c977a&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </br>
 
-<div><h1>### Hi there 👋</h1></div></br>
+<div><h1>Hi there 👋</h1></div></br>
 
 
 
@@ -16,6 +16,7 @@ Here are some ideas to get you started:</br>
 </br>
 <div><h1>Skills</h1></div>
 </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-A-Shuaib&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</br>
 🤔 I’m looking for help with ...</br>
 💬 Ask me about ...</br>
 📫 How to reach me: ...</br>
