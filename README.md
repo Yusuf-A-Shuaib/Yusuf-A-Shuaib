@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 🔭 I’m currently working on ...
 🌱 I’m currently learning ...
 👯 I’m looking to collaborate on ...<
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf-A-Shuaib&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf-A-Shuaib&count_private=true&show_icons=true&theme=merko)
 
 <div><h1> wassup bro</h1></div>
 
