@@ -20,11 +20,9 @@ Here are some ideas to get you started:</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-A-Shuaib&langs_count=8&layout=compact)](https://github.com/Yusuf-A-Shuaib/my-portfolio)</br>
 🤔 I’m looking for help with ...</br>
 💬 Ask me about ...</br>
-📫 How to reach me: ...</br>
+📫 How to reach me: Follow me on twitter</br>
 😄 Pronouns: ...</br>
 ⚡ Fun fact: ...</br>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yusuf-A-Shuaib&theme=react-dark&custom_title=Yusuf-A-Shuaib%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yusuf-A-Shuaib&theme=react-dark&custom_title=Yusuf-A-Shuaib%20Contribution%20Graph)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)
 
