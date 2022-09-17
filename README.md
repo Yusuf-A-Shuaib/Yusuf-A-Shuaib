@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ⚡ Fun fact: ...
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yusuf-A-Shuaib&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yusuf-A-Shuaib&theme=react-dark&custom_title=Yusuf-A-Shuaib%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
