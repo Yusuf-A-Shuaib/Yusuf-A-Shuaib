@@ -28,6 +28,6 @@ Here are some ideas to get you started:</br>
 
    
  
- <a href"https://twitter.com/Yusuf_A_Shuaib">![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logoColor=367888&style=social&url=https://twitter.com/Yusuf_A_Shuaib)</a>
+![Twitter Follow](https://img.shields.io/twitter/follow/Yusuf_A_Shuaib?style=social)
 
 
