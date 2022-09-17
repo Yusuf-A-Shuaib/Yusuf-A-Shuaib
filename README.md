@@ -30,4 +30,7 @@ Here are some ideas to get you started:</br>
  
 ![Twitter Follow](https://img.shields.io/twitter/follow/Yusuf_A_Shuaib?style=social)
 
+https://img.shields.io/twitter/follow/Yusuf_A_Shuaib?style=social
+
+
 
