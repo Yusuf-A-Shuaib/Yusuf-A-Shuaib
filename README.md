@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <div><h1> wassup bro</h1></div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf-A-Shuaib&count_private=true&show_icons=true&&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf-A-Shuaib&show_icons=true&&theme=radical)
 
 🤔 I’m looking for help with ...
 💬 Ask me about ...
