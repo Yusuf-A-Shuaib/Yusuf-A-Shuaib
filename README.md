@@ -16,14 +16,14 @@ Here are some ideas to get you started:</br>
 <div><h1>Skills</h1></div>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-A-Shuaib&langs_count=8&private_count=true&layout=compact)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-A-Shuaib&langs_count=8&count_private=true&layout=compact)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)</br>
 🤔 I’m looking for help with ...</br>
 💬 Ask me about ...</br>
 📫 How to reach me: Follow me on twitter</br>
 😄 Pronouns: ...</br>
 ⚡ Fun fact: ...</br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yusuf-A-Shuaib&private_count=true&theme=react-dark&custom_title=Yusuf-A-Shuaib%20Contribution%20Graph)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yusuf-A-Shuaib&count_private=true&theme=react-dark&custom_title=Yusuf-A-Shuaib%20Contribution%20Graph)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)
 
    
  
