@@ -1,6 +1,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yusuf-A-Shuaib&theme=neon-dark&border=3c977a&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </br>
-<img alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=Yusuf-A-Shuaib&theme=neon-dark&border=3c977a&date_format=M%20j%5B%2C%20Y%5D"/>
+<!-- <img alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=Yusuf-A-Shuaib&theme=neon-dark&border=3c977a&date_format=M%20j%5B%2C%20Y%5D"/> -->
 <div><h1>Hi there 👋</h1></div></br>
 
 
@@ -27,6 +27,6 @@ Here are some ideas to get you started:</br>
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yusuf-A-Shuaib&theme=react-dark&custom_title=Yusuf-A-Shuaib%20Contribution%20Graph)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)
 
    
-<!--  ![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logoColor=367888&style=social&url=https%3A%2F%2Fwww.twitter.com%2Fyusuf-a-shuaib) -->
+ ![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logoColor=367888&style=social&url=https://twitter.com/Yusuf_A_Shuaib)]
 
 
