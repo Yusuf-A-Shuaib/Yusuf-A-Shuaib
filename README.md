@@ -1,6 +1,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yusuf-A-Shuaib&theme=neon-dark&border=3c977a&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </br>
-
+<img alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=Yusuf-A-Shuaib&theme=neon-dark&border=3c977a&date_format=M%20j%5B%2C%20Y%5D"/>
 <div><h1>Hi there 👋</h1></div></br>
 
 
