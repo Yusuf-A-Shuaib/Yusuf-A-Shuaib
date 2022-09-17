@@ -17,7 +17,7 @@ Here are some ideas to get you started:</br>
 <div><h1>Skills</h1></div>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-A-Shuaib&langs_count=8&layout=compact)](https://github.com/Yusuf-A-Shuaib/)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-A-Shuaib&langs_count=8&layout=compact)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)</br>
 🤔 I’m looking for help with ...</br>
 💬 Ask me about ...</br>
 📫 How to reach me: Follow me on twitter</br>
