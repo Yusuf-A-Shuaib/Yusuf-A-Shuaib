@@ -27,6 +27,7 @@ Here are some ideas to get you started:</br>
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yusuf-A-Shuaib&theme=react-dark&custom_title=Yusuf-A-Shuaib%20Contribution%20Graph)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)
 
    
- ![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logoColor=367888&style=social&url=https://twitter.com/Yusuf_A_Shuaib)]
+ 
+ <a href"https://twitter.com/Yusuf_A_Shuaib">![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logoColor=367888&style=social&url=https://twitter.com/Yusuf_A_Shuaib)</a>
 
 
