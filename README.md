@@ -28,7 +28,7 @@ Here are some ideas to get you started:</br>
 
    
  
-![Twitter Follow](https://img.shields.io/twitter/follow/Yusuf_A_Shuaib?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/Yusuf_A_Shuaib?label=Follow%20me&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/Yusuf-A-Shuaib?logoColor=red&style=social)
 
 
