@@ -6,8 +6,9 @@
 
 </hr>
 Hey friend👋, I'm a software engineer working on building technology to improve the world as a community. I have worked with a lot of technologies which includes Python, C++, MySQL.  I'm also a Web-developer(back-end) who has experince with the Flask web development framework, and I have experience working with large instant teams.
-INTELLIGENCE CONSULTANCY</br>
-Analytical and problem-solving skills
+<!-- INTELLIGENCE CONSULTANCY</br>
+Analytical and problem-solving skills -->
+</br>
 </br>
 
 
