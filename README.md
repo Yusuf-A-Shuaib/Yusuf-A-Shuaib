@@ -31,7 +31,7 @@ Analytical and problem-solving skills -->
 
 </br>
 
-🌱 I’m currently learning computer penetration testing(pentesting) so as to ameliorate my networking and software engineering skills so as to tweak up defences on already existing softwares. I'm also preparing to take the CompTIA network+ examination.
+🌱 I’m also learning computer penetration testing(pentesting) with the aim to ameliorate my networking and software engineering skills which would greatly impact how I tweak up defenses on softwares. I'm also preparing to take the CompTIA network+ examination.
 </br>
 
 👯 I’m looking to collaborate on more challenging projects. So, do you need an extra hand on a project? <a href="mailto:shuaibudeenyusuf@gmail.com">Let's Build 😉</a>
