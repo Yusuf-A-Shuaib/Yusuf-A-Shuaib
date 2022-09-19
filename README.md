@@ -1,16 +1,18 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yusuf-A-Shuaib&theme=neon-dark&border=3c977a&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</br>
 
 
-<div><h1>Hi there 👋</h1></div></br>
+<div><h1>Hi I'm Shuaib 👋</h1></div></br>
+<img src="" />
 
-Yusuf-A-Shuaib/Yusuf-A-Shuaib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.</br>
+Hey friend👋, I'm a software engineer working on builing technology to improve the world as a community. I have worked with a lot of technologies which includes Python, C++, MySQL.  I'm also a Web-developer(back-end) who has experince with the Flask web development framework</br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yusuf-A-Shuaib&repo=my-portfolio)](https://github.com/Yusuf-A-Shuaib/my-portfolio)</br>
 Here are some ideas to get you started:</br>
 
 🔭 I’m currently working on ...</br>
 🌱 I’m currently learning ...</br>
 👯 I’m looking to collaborate on ...</br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yusuf-A-Shuaib&theme=neon-dark&border=3c977a&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf-A-Shuaib&count_private=true&show_icons=true&theme=merko)
 </br>
 <div><h1>Skills</h1></div>
