@@ -5,7 +5,8 @@
 <!-- <img src="https://raw.githubusercontent.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib/main/shuaib.jpg" alt="Banner of my self"> -->
 
 </hr>
-Hey friend👋, I'm a software engineer working on building technology to improve the world as a community. I have worked with a lot of technologies which includes Python, C++, MySQL.  I'm also a Web-developer(back-end) who has experince with the Flask web development framework, and I have experience working with large instant teams.
+Hey friend👋, I'm a software engineer working on building programs to improve software calibre and further develop softwares to transcend the standards of developed technologies and flag amongst the best.I am an experienced Engineer who has acquaintance with large instant teams on technologies which involves Python, C++, MySQL. I'm also a Network Specialist who has helped design and implement network setups for organisations and oversee their network's data. I'm also a Web-developer(back-end) who has build web applications and API's with the Python Flask web development framework.
+
 <!-- INTELLIGENCE CONSULTANCY</br>
 Analytical and problem-solving skills -->
 </br>
