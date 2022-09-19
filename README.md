@@ -38,19 +38,31 @@ Analytical and problem-solving skills
 </br>
 <h2>Check out my github stats</h2>
 </br>
+</br>
+
+</hr>
+</br>
 
 [![Shuaib's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yusuf-A-Shuaib&count_private=true&theme=react-dark&custom_title=Shuaib's%20Contribution%20Graph)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)
 
 </br>
+</hr>
+</br>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf-A-Shuaib&count_private=true&show_icons=true&theme=merko)
 
 </br>
+</hr>
+</br>
+
 📫 How to reach me: <a href="https://wa.me//08189256396">Whatsapp</a>
 </br>
 😄 Nicknames: nana, shubby</br>
-⚡ Fun fact: I have already gathered vocational skill (Barbing) where I bulit my communication and listening ability and also my bussiness managment skills </br>
+⚡ Fun fact: I have already gathered vocational skill (Barbing) where I bulit my communication and listening ability and also my bussiness management skills. </br>
 
+</br>
+</br>
 <h1>Stay in contact</h1>
 </hr>
 - Need incredible software <a href="https://twitter.com/Yusuf_A_Shuaib">tweets</a>?
