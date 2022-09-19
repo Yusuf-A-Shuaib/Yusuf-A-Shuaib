@@ -27,10 +27,6 @@ Here are some ideas to get you started:</br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf-A-Shuaib&count_private=true&show_icons=true&theme=merko)
 </br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-A-Shuaib&langs_count=8&count_private=true&layout=compact)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)
-
-</br>
 🤔 I’m looking for help with ...</br>
 💬 Ask me about ...</br>
 📫 How to reach me: Follow me on twitter</br>
@@ -42,6 +38,10 @@ Here are some ideas to get you started:</br>
 Stay updated
 - Need incredible software contents? follow me on <a href="">Twitter</a>
 - Contact me 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-A-Shuaib&langs_count=8&count_private=true&layout=compact)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)
+
+</br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yusuf-A-Shuaib&repo=my-portfolio)](https://github.com/Yusuf-A-Shuaib/my-portfolio)
  
