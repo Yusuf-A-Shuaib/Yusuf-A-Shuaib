@@ -1,7 +1,8 @@
 <div><h1>Hi I'm Shuaib 👋</h1></div>
 </br>
 </hr>
-<img src="https://raw.githubusercontent.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib/main/shuaib.jpg" alt="Banner of my self">
+
+<!-- <img src="https://raw.githubusercontent.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib/main/shuaib.jpg" alt="Banner of my self"> -->
 
 </hr>
 Hey friend👋, I'm a software engineer working on building technology to improve the world as a community. I have worked with a lot of technologies which includes Python, C++, MySQL.  I'm also a Web-developer(back-end) who has experince with the Flask web development framework, and I have experience working with large instant teams.
