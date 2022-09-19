@@ -23,7 +23,7 @@ Analytical and problem-solving skills -->
 🤔 I’m an experienced Networking Specialist, Entrepreneur and Software Developer.
 </br>
 
-🔭 I’m currently working on building a large scalable security system with the sole mission of providing protection and risk-based solutions to clients ranging from corporations and government bodies to ultra-high-net-worth individual. This is a C++ based software which aim is to provide all security requirements which ranges from Surveillance, software counter measures, counter surveillance to Intelligence gathering and would revamp the security community and create a secure feel of safety at a more accessible and more secure level <a href="#">Learn more.</a>
+🔭 I’m currently working on building a large scalable security system with the sole mission of providing protection and risk-based solutions to clients ranging from corporations and government bodies to ultra-high-net-worth individual. This is a C++ based software which aim is to provide major security requirements which ranges from Surveillance, software counter measures, counter surveillance to Intelligence gathering which would revamp the security community and create a feel of safety at a more accessible and more secure level <a href="#">Learn more.</a>
 </br>
 
 </br>
