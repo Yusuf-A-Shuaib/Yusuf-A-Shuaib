@@ -3,11 +3,12 @@
 <div><h1>Hi I'm Shuaib 👋</h1></div></br>
 <img src="" />
 
-Hey friend👋, I'm a software engineer working on builing technology to improve the world as a community. I have worked with a lot of technologies which includes Python, C++, MySQL.  I'm also a Web-developer(back-end) who has experince with the Flask web development framework</br>
+Hey friend👋, I'm a software engineer working on builing technology to improve the world as a community. I have worked with a lot of technologies which includes Python, C++, MySQL.  I'm also a Web-developer(back-end) who has experince with the Flask web development framework, and I have experience working with large instant teams. long-lasting client relationships.
+INTELLIGENCE CONSULTANCY</br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yusuf-A-Shuaib&repo=my-portfolio)](https://github.com/Yusuf-A-Shuaib/my-portfolio)</br>
 Here are some ideas to get you started:</br>
 
-🔭 I’m currently working on ...</br>
+🔭 I’m currently working on building a large scalable security system with the sole mission of providing protection and risk-based solutions to clients ranging from corporations and government bodies to ultra-high-net-worth individual. This is a C++ based software which aim is to provide all security requirements which ranges from Surveillance, software counter measures, counter surveillance to Intelligence gathering and would create a secure feel of safety at a more accessible and more secure level</br>
 🌱 I’m currently learning ...</br>
 👯 I’m looking to collaborate on ...</br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yusuf-A-Shuaib&theme=neon-dark&border=3c977a&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
