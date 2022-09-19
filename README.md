@@ -5,7 +5,9 @@
 <img src="https://raw.githubusercontent.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib/main/shuaib-banner.png" alt="Banner img of myself. Taken for my resources webpage">
 
 </hr>
-Hey friend👋, I'm a software engineer working on building programs to improve software calibre and further develop softwares to transcend the standards of developed technologies and flag amongst the best.I am an experienced Engineer who has acquaintance with large instant teams on technologies which involves Python, C++, MySQL. I'm also a Network Specialist who has helped design and implement network setups for organisations and oversee their network's data. Also, i'm a Web-developer (back-end) who has built web applications and API's with the Python Flask web development framework.
+Howdy, friend👋.
+``Get to know me``
+I'm a software engineer working on building programs to improve software calibre and further develop softwares to transcend the standards of developed technologies and flag amongst the best.I am an experienced Engineer who has acquaintance with large instant teams on technologies which involves Python, C++, MySQL. I'm also a Network Specialist who has helped design and implement network setups for organisations and oversee their network's data. Also, i'm a Web-developer (back-end) who has built web applications and API's with the Python Flask web development framework.
 
 <!-- INTELLIGENCE CONSULTANCY</br>
 Analytical and problem-solving skills -->
