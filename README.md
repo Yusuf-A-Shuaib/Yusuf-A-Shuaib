@@ -78,13 +78,11 @@ Analytical and problem-solving skills
 </hr>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-A-Shuaib&langs_count=8&count_private=true&layout=compact)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-A-Shuaib&langs_count=6&count_private=true&layout=compact)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)
 
 </br>
 </hr>
 </br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yusuf-A-Shuaib&repo=my-portfolio)](https://github.com/Yusuf-A-Shuaib/my-portfolio)
  
 
 
