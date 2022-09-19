@@ -9,8 +9,9 @@ INTELLIGENCE CONSULTANCY</br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yusuf-A-Shuaib&theme=neon-dark&border=3c977a&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </br>
 
+<div><h1>Skills</h1></div>
 </br>
-Here are some ideas to get you started:</br>
+
 
 🔭 I’m currently working on building a large scalable security system with the sole mission of providing protection and risk-based solutions to clients ranging from corporations and government bodies to ultra-high-net-worth individual. This is a C++ based software which aim is to provide all security requirements which ranges from Surveillance, software counter measures, counter surveillance to Intelligence gathering and would revamp the security community and create a secure feel of safety at a more accessible and more secure level</br>
 </br>
@@ -21,9 +22,8 @@ Here are some ideas to get you started:</br>
 </br>
 
 
-<div><h1>Skills</h1></div>
+<div><h1>Stats</h1></div>
 </br>
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf-A-Shuaib&count_private=true&show_icons=true&theme=merko)
 </br>
