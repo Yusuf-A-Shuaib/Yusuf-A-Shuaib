@@ -19,7 +19,7 @@ Analytical and problem-solving skills
 🤔 I’m an experienced Networking Specialist, Entrepreneur and Software Developer.
 </br>
 
-🔭 I’m currently working on building a large scalable security system with the sole mission of providing protection and risk-based solutions to clients ranging from corporations and government bodies to ultra-high-net-worth individual. This is a C++ based software which aim is to provide all security requirements which ranges from Surveillance, software counter measures, counter surveillance to Intelligence gathering and would revamp the security community and create a secure feel of safety at a more accessible and more secure level.
+🔭 I’m currently working on building a large scalable security system with the sole mission of providing protection and risk-based solutions to clients ranging from corporations and government bodies to ultra-high-net-worth individual. This is a C++ based software which aim is to provide all security requirements which ranges from Surveillance, software counter measures, counter surveillance to Intelligence gathering and would revamp the security community and create a secure feel of safety at a more accessible and more secure level <a href="#">Learn more.</a>
 </br>
 
 </br>
@@ -63,16 +63,23 @@ Analytical and problem-solving skills
 
 </br>
 </br>
+
 <h1>Stay in contact</h1>
 </hr>
+
 - Need incredible software <a href="https://twitter.com/Yusuf_A_Shuaib">tweets</a>?
 - Chat me up on <a href="https://wa.me//08189256396">Whatsapp</a></br>
-- Stay updated on all software news with <a href="https://twitter.com/Yusuf_A_Shuaib">Shuaib's Blog</a>
+- Stay updated on all software news with <a href="">Shuaib's Blog.</a>
 
-
+</br>
+</br>
+</hr>
+</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-A-Shuaib&langs_count=8&count_private=true&layout=compact)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)
 
+</br>
+</hr>
 </br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yusuf-A-Shuaib&repo=my-portfolio)](https://github.com/Yusuf-A-Shuaib/my-portfolio)
