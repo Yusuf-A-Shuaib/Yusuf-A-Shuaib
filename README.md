@@ -6,8 +6,9 @@
 Hey friend👋, I'm a software engineer working on building technology to improve the world as a community. I have worked with a lot of technologies which includes Python, C++, MySQL.  I'm also a Web-developer(back-end) who has experince with the Flask web development framework, and I have experience working with large instant teams. long-lasting client relationships.
 INTELLIGENCE CONSULTANCY</br>
 </br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yusuf-A-Shuaib&theme=neon-dark&border=3c977a&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yusuf-A-Shuaib&repo=my-portfolio)](https://github.com/Yusuf-A-Shuaib/my-portfolio)
 </br>
 Here are some ideas to get you started:</br>
 
@@ -18,12 +19,13 @@ Here are some ideas to get you started:</br>
 
 👯 I’m looking to collaborate on ...
 </br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yusuf-A-Shuaib&theme=neon-dark&border=3c977a&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+<div><h1>Skills</h1></div>
 </br>
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf-A-Shuaib&count_private=true&show_icons=true&theme=merko)
-</br>
-<div><h1>Skills</h1></div>
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-A-Shuaib&langs_count=8&count_private=true&layout=compact)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)
@@ -40,6 +42,8 @@ Here are some ideas to get you started:</br>
 Stay updated
 - Need incredible software contents? follow me on <a href="">Twitter</a>
 - Contact me 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yusuf-A-Shuaib&repo=my-portfolio)](https://github.com/Yusuf-A-Shuaib/my-portfolio)
  
 ![Twitter Follow](https://img.shields.io/twitter/follow/Yusuf_A_Shuaib?label=Follow%20me&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/Yusuf-A-Shuaib?logoColor=red&style=social)
