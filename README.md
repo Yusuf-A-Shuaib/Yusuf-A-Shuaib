@@ -1,9 +1,6 @@
-
-
 <div><h1>Hi I'm Shuaib 👋</h1></div></br>
-[! my image](https://github.com/Yusuf-A-Shuaib/my-portfolio/blob/cb1237fd1d87148e37a149d3d9fb7f3a107ae42f/portfolio/static/images/shuaib.jpg)
 
-
+</hr>
 Hey friend👋, I'm a software engineer working on building technology to improve the world as a community. I have worked with a lot of technologies which includes Python, C++, MySQL.  I'm also a Web-developer(back-end) who has experince with the Flask web development framework, and I have experience working with large instant teams.
 INTELLIGENCE CONSULTANCY</br>
 Analytical and problem-solving skills
