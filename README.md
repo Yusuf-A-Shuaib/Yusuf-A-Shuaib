@@ -31,7 +31,7 @@ Analytical and problem-solving skills -->
 🌱 I’m currently learning computer penetration testing(pentesting) so as to ameliorate my networking and software engineering skills so as to tweak up defences on already existing softwares. I'm also preparing to take the CompTIA network+ examination.
 </br>
 
-👯 I’m looking to collaborate on more challenging projects. So, do you need an extra hand on a project? <a href="https://twitter.com/Yusuf_A_Shuaib">Let's Build 😉</a>
+👯 I’m looking to collaborate on more challenging projects. So, do you need an extra hand on a project? <a href = "mailto:abc@example.com?subject = Feedback&body = Message">Let's Build 😉</a>
 </br>
 
 💬 Relation skills: I have worked as a manager in a Hotel which has really tested my Teamwork, planning and leadership skills. Where I have been able to solve problems and prove effective analytically under little to no supervision thus enabling me build long-lasting client relationships.
