@@ -60,10 +60,10 @@ Analytical and problem-solving skills -->
 </hr>
 </br>
 
-📫 How to reach me: <a href="https://wa.me//08189256396">Whatsapp</a>
+📫 How to reach me: <a href="mailto:shuaibudeenyusuf@gmail.com">Send a message</a>
 </br>
 😄 Nicknames: nana, shubby</br>
-⚡ Fun fact: I have already gathered vocational skill (Barbing) where I bulit my communication and listening ability and also my bussiness management skills. </br>
+⚡ Fun fact: I have gathered vocational skill (Barbing) where I was able to build my communication and listening ability and also my bussiness management skills. </br>
 
 </br>
 </br>
@@ -71,8 +71,9 @@ Analytical and problem-solving skills -->
 <h1>Stay in contact</h1>
 </hr>
 
-- Need incredible software <a href="https://twitter.com/Yusuf_A_Shuaib">tweets</a>?
-- Chat me up on <a href="https://wa.me//08189256396">Whatsapp</a></br>
+- Need incredible content <a href="https://twitter.com/Yusuf_A_Shuaib">tweets</a>?
+- Chat me up on <a href="tel:08189256396">call</a></br>
+- Want to discuss a project? <a href = "mailto:shuaibudeenyusuf@gmail.com?subject = Feedback&body = Message">Contact me</a>
 - Stay updated on all software news with <a href="">Shuaib's Blog.</a>
 
 </br>
