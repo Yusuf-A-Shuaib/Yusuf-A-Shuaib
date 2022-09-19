@@ -7,7 +7,10 @@ Hey friend👋, I'm a software engineer working on building technology to improv
 INTELLIGENCE CONSULTANCY</br>
 Analytical and problem-solving skills
 </br>
+
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yusuf-A-Shuaib&theme=neon-dark&border=3c977a&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 </br>
 
 <div><h1>Skills</h1></div>
@@ -33,10 +36,15 @@ Analytical and problem-solving skills
 
 <div><h1>Stats</h1></div>
 </br>
-Check out my github stats
+## Check out my github stats
+</br>
+
 [![Shuaib's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yusuf-A-Shuaib&count_private=true&theme=react-dark&custom_title=Shuaib's%20Contribution%20Graph)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)
 
+</br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf-A-Shuaib&count_private=true&show_icons=true&theme=merko)
+
 </br>
 📫 How to reach me: <a href="https://wa.me//08189256396">Whatsapp</a>
 </br>
