@@ -71,12 +71,12 @@ Analytical and problem-solving skills -->
 <h1>Stay in contact</h1>
 </hr>
 
-- Need incredible content <a href="https://twitter.com/Yusuf_A_Shuaib">tweets</a>?
-- Chat me up on <a href="tel:08189256396">call</a></br>
+- Browse throught amazing <a href="https://twitter.com/Yusuf_A_Shuaib">tweets</a>
+- Incredible content on <a href="https://www.linkedin.com/in/shuaibudeen-yusuf-b3a2b0224">LinkedIN</a>
 - Want to discuss a project? <a href = "mailto:shuaibudeenyusuf@gmail.com?subject = Feedback&body = Message">Contact me</a>
 - Stay updated on all software news with <a href="">Shuaib's Blog.</a>
 
-</br>
+
 </br>
 </hr>
 </br>
