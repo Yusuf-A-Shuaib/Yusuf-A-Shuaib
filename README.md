@@ -39,20 +39,16 @@ I'm a software engineer working on programs to improve software calibre and furt
 <h2>Check out my github stats</h2>
 </br>
 </hr>
-</br>
 
 [![Shuaib's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yusuf-A-Shuaib&count_private=true&theme=react-dark&custom_title=Shuaib's%20Contribution%20Graph)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)
 
 </br>
 </hr>
-</br>
-
 
 [![Shuaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf-A-Shuaib&count_private=true&show_icons=true&theme=merko)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)
 
 </br>
 </hr>
-</br>
 
 📫 How to reach me: <a href="mailto:shuaibudeenyusuf@gmail.com">Send a message</a>
 </br>
