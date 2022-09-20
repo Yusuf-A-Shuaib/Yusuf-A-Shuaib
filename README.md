@@ -1,7 +1,7 @@
 <div><h1>Hi I'm Shuaib</h1></div>
 </br>
 </hr>
-<img src="https://raw.githubusercontent.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib/main/shuaib-banner.png" alt="Banner img of myself. Taken for my resources webpage">
+[![Banner image of myself](https://raw.githubusercontent.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib/main/shuaib-banner.png)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)
 </br>
 </hr>
 <div><h3>Howdy, friend👋. Get to know me</h3><div>
@@ -56,7 +56,7 @@ Analytical and problem-solving skills -->
 </br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf-A-Shuaib&count_private=true&show_icons=true&theme=merko)
+[![Shuaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf-A-Shuaib&count_private=true&show_icons=true&theme=merko)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)
 
 </br>
 </hr>
