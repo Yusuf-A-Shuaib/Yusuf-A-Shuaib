@@ -36,6 +36,10 @@ Analytical and problem-solving skills -->
 💬 Relation skills: I have worked as a manager in a Hotel which has really tested my Teamwork, planning and leadership skills. Where I have been able to solve problems and prove effective analytically under little to no supervision thus enabling me build long-lasting client relationships.
 </br>
 
+🏫 Education: Presently, I am a 200lv biochemistry student at a prestigious university (Ahmadu Bello University).
+</br>
+</hr>
+
 
 </br>
 <h2>Check out my github stats</h2>
