@@ -21,8 +21,6 @@ I'm a software engineer working on programs to improve software calibre and furt
 🔭 I’m currently working on building a large scalable security system with the sole mission of providing protection and risk-based solutions to clients ranging from corporations and government bodies to ultra-high-net-worth individual. This is a C++ based software which aim is to provide major security requirements which ranges from Surveillance, software counter measures, counter surveillance to Intelligence gathering which would revamp the security community and create a feel of safety at a more accessible and more secure level <a href="#">Learn more.</a>
 </br>
 
-</br>
-
 🌱 I’m also learning computer penetration testing(pentesting) with the aim to ameliorate my networking and software engineering skills which would greatly impact how I tweak up defenses on softwares. I'm also preparing to take the CompTIA network+ examination.
 </br>
 
@@ -40,8 +38,6 @@ I'm a software engineer working on programs to improve software calibre and furt
 </br>
 <h2>Check out my github stats</h2>
 </br>
-</br>
-
 </hr>
 </br>
 
