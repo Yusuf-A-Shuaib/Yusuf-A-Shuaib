@@ -1,7 +1,6 @@
 <div><h1>Hi I'm Shuaib</h1></div>
 </br>
 </hr>
-
 <img src="https://raw.githubusercontent.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib/main/shuaib-banner.png" alt="Banner img of myself. Taken for my resources webpage">
 </br>
 </hr>
@@ -14,11 +13,9 @@ I'm a software engineer working on programs to improve software calibre and furt
 Analytical and problem-solving skills -->
 </br>
 </hr>
-</br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yusuf-A-Shuaib&theme=neon-dark&border=3c977a&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-</br>
 </hr>
 <div><h1>Skills</h1></div>
 </br>
