@@ -1,12 +1,11 @@
-<div><h1>Hi I'm Shuaib 👋</h1></div>
+<div><h1>Hi I'm Shuaib</h1></div>
 </br>
 </hr>
 
 <img src="https://raw.githubusercontent.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib/main/shuaib-banner.png" alt="Banner img of myself. Taken for my resources webpage">
 </br>
 </hr>
-<div><h5>Howdy, friend👋. Get to know me</h5><div>
- ## Howdy, friend👋. Get to know me
+<div><h3>Howdy, friend👋. Get to know me</h3><div>
 </br>
 </hr>
 I'm a software engineer working on programs to improve software calibre and further develop softwares to transcend the standards of developed technologies and flag amongst the best. I am an experienced Engineer who has acquaintance with large instant teams on technologies which involves Python, C++, MySQL. I'm also a Network Specialist who has helped design and implement network setups for organisations and oversee their network's data. Also, i'm a Web-developer (back-end) who has built web applications and API's with the Python Flask web development framework.
