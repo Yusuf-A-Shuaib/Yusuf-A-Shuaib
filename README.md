@@ -5,7 +5,6 @@
 </br>
 </hr>
 <div><h3>Howdy, friend👋. Get to know me</h3><div>
-</br>
 </hr>
 I'm a software engineer working on programs to improve software calibre and further develop softwares to transcend the standards of developed technologies and flag amongst the best. I am an experienced Engineer who has acquaintance with large instant teams on technologies which involves Python, C++, MySQL. I'm also a Network Specialist who has helped design and implement network setups for organisations and oversee their network's data. Also, i'm a Web-developer (back-end) who has built web applications and API's with the Python Flask web development framework.
 </br>
@@ -63,7 +62,7 @@ Analytical and problem-solving skills -->
 📫 How to reach me: <a href="mailto:shuaibudeenyusuf@gmail.com">Send a message</a>
 </br>
 😄 Nicknames: nana, shubby</br>
-⚡ Fun fact: I have gathered vocational skill (Barbing) where I was able to build my communication and listening ability and also my bussiness management skills. </br>
+⚡ Fun fact: After my senior secondary education I was into professional barbing which help build my communication ability and also my bussiness management skills. </br>
 
 </br>
 </br>
