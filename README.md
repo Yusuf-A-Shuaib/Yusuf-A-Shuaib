@@ -37,7 +37,6 @@ Analytical and problem-solving skills -->
 </br>
 
 
-<div><h1>Stats</h1></div>
 </br>
 <h2>Check out my github stats</h2>
 </br>
