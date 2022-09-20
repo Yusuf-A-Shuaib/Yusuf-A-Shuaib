@@ -78,16 +78,12 @@ Analytical and problem-solving skills -->
 - Want to discuss a project? <a href = "mailto:shuaibudeenyusuf@gmail.com?subject = Feedback&body = Message">Contact me</a>
 - Stay updated on all software news with <a href="">Shuaib's Blog.</a>
 
-
 </br>
 </hr>
-</br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-A-Shuaib&langs_count=6&count_private=true&layout=compact)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-A-Shuaib&langs_count=6&count_private=true&layout=compact)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)
+ -->
 
-</br>
-</hr>
-</br>
  
 
 
