@@ -3,7 +3,7 @@
 </hr>
 
 <img src="https://raw.githubusercontent.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib/main/shuaib-banner.png" alt="Banner img of myself. Taken for my resources webpage">
-
+</br>
 </hr>
 <div><h5>Howdy, friend👋. Get to know me</h5><div>
 </br>
