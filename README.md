@@ -2,7 +2,7 @@
 </br>
 </hr>
 <img src="https://raw.githubusercontent.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib/main/shuaib-banner.png" alt="Banner image of myself">
-[![Banner image of myself](http://raw.githubusercontent.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib/main/shuaib-banner.png)]
+![Banner image of myself](http://raw.githubusercontent.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib/main/shuaib-banner.png)
 </br>
 </hr>
 <div><h3>Howdy, friend👋. Get to know me</h3><div>
