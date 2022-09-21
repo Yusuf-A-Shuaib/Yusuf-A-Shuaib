@@ -1,8 +1,5 @@
 <div><h1>Hi I'm Shuaib</h1></div>
 </hr>
-<img src="https://raw.githubusercontent.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib/main/shuaib-banner.png" alt="Banner image of myself">
-
-
 [![Banner image of myself](https://raw.githubusercontent.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib/main/shuaib-banner.png)](https://github.com/Yusuf-A-Shuaib)
 
 
