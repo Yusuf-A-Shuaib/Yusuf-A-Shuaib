@@ -10,7 +10,7 @@ I'm a software engineer working on programs to improve software calibre and furt
 </hr>
 </br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yusuf-A-Shuaib&theme=neon-dark&border=3c977a&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)</hr>
+[![My gitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yusuf-A-Shuaib&theme=neon-dark&border=3c977a&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Yusuf-A-Shuaib)</hr>
 
 <div><h1>Skills</h1></div>
 </br>
@@ -40,7 +40,7 @@ I'm a software engineer working on programs to improve software calibre and furt
 </br>
 </hr>
 
-[![Shuaib's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yusuf-A-Shuaib&count_private=true&theme=react-dark&custom_title=Shuaib's%20Contribution%20Graph)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)
+[![Shuaib's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yusuf-A-Shuaib&count_private=true&theme=react-dark&custom_title=Shuaib's%20Contribution%20Graph)](https://github.com/Yusuf-A-Shuaib)
 
 </br>
 </hr>
