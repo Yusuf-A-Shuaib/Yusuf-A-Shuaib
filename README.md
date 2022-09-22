@@ -56,7 +56,7 @@ I'm a software engineer working on programs to improve software calibre and furt
 📫 How to reach me: <a href="mailto:shuaibudeenyusuf@gmail.com">Send a message</a>
 </br>
 😄 Nicknames: nana, shubby</br>
-⚡ Fun fact: After my senior secondary education I was into professional barbing which help build my communication ability and also my bussiness management skills. </br>
+⚡ Fun fact: After my senior secondary education I was into professional barbing which built my business management skills and also positively impact my customer communications and relations. </br>
 
 </br>
 </br>
