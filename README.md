@@ -4,6 +4,8 @@
 [![Banner image of myself](https://raw.githubusercontent.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib/main/shuaib-banner.png)](https://github.com/Yusuf-A-Shuaib)
 
 
+
+
 </br>
 </hr>
 <div><h3>Howdy, friend👋. Get to know me</h3><div>
@@ -44,6 +46,11 @@ I'm a software engineer working on programs to improve software calibre and furt
 </hr>
 
 [![Shuaib's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yusuf-A-Shuaib&count_private=true&theme=react-dark&custom_title=Shuaib's%20Contribution%20Graph)](https://github.com/Yusuf-A-Shuaib)
+
+
+
+[![chace's github activity graph](https://activity-graph.herokuapp.com/graph?username=chacetechost&count_private=true&theme=react-dark&custom_title=Chace's%20Contribution%20Graph)](https://github.com/chacetechost)
+
 
 </br>
 </hr>
