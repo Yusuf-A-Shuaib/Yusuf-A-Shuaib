@@ -87,7 +87,7 @@ I'm a software engineer working on programs to improve software calibre and furt
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-A-Shuaib&langs_count=6&count_private=true&layout=compact)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)
  -->
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chacetechost&langs_count=6&count_private=true&layout=compact)](https://github.com/chacetechost/chacetechost
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chacetechost&langs_count=6&count_private=true&layout=compact)](https://github.com/chacetechost/chacetechost)
 
 
 
