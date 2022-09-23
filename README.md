@@ -74,7 +74,7 @@ I'm a software engineer working on programs to improve software calibre and furt
 - Incredible content on <a href="https://www.linkedin.com/in/shuaibudeen-yusuf-b3a2b0224">LinkedIN</a>
 - Want to discuss a project? <a href = "mailto:shuaibudeenyusuf@gmail.com?subject = Feedback&body = Message">Contact me</a>
 - Stay updated on all software news with <a href="https://github.com/Yusuf-A-Shuaib">Shuaib's Blog.</a>
-- Get guality network accessories from me <a href="https://github.com/Yusuf-A-Shuaib">@ nana.com</a>
+- Get quality network accessories from me <a href="https://github.com/Yusuf-A-Shuaib">@ nana.com</a>
 
 </br>
 </hr>
