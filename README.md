@@ -48,17 +48,12 @@ I'm a software engineer working on programs to improve software calibre and furt
 [![Shuaib's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yusuf-A-Shuaib&count_private=true&theme=react-dark&custom_title=Shuaib's%20Contribution%20Graph)](https://github.com/Yusuf-A-Shuaib)
 
 
-
-[![chace's github activity graph](https://activity-graph.herokuapp.com/graph?username=chacetechost&count_private=true&theme=react-dark&custom_title=Chace's%20Contribution%20Graph)](https://github.com/chacetechost)
-
-
 </br>
 </hr>
 
 [![Shuaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf-A-Shuaib&count_private=true&show_icons=true&theme=merko)](https://github.com/Yusuf-A-Shuaib)
 
 
-[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=chacetechost&count_private=true&show_icons=true&theme=merko)](https://github.com/chacetechost)
 
 
 </br>
@@ -87,7 +82,7 @@ I'm a software engineer working on programs to improve software calibre and furt
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-A-Shuaib&langs_count=6&count_private=true&layout=compact)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)
  -->
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chacetechost&langs_count=6&count_private=true&layout=compact)](https://github.com/chacetechost/chacetechost)
+
 
 
 
