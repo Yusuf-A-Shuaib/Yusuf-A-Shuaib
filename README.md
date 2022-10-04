@@ -1,7 +1,7 @@
 <div><h1>Hi I'm Shuaib</h1></div>
 </hr>
 
-[![Banner image of myself](https://raw.githubusercontent.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib/main/shuaib-banner.png)](https://github.com/Yusuf-A-Shuaib)
+[![Banner image of myself](https://raw.githubusercontent.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib/main/shuaib-banner.png)](https://shuaibresource.herokuapp.com/portfolio)
 
 
 
