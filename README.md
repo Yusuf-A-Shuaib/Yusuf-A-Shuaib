@@ -50,7 +50,7 @@ I'm a software engineer working on programs to improve software calibre and furt
 </br>
 </hr>
 
-[![My public contribution stats](https://github-readme-stats.vercel.app/api?username=Yusuf-A-Shuaib&count_private=true&show_icons=true&theme=merko)](https://github.com/Yusuf-A-Shuaib)
+[![My public contribution stats](https://github-readme-stats.vercel.app/api?username=Yusuf-A-Shuaib&count_private=true&show_icons=true&theme=merko&custom_title=My%20public%20contribution%20stats)](https://github.com/Yusuf-A-Shuaib)
 
 
 
