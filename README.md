@@ -44,13 +44,13 @@ I'm a software engineer working on programs to improve software calibre and furt
 </br>
 </hr>
 
-[![Shuaib's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yusuf-A-Shuaib&count_private=true&theme=react-dark&custom_title=Shuaib's%20Contribution%20Graph)](https://github.com/Yusuf-A-Shuaib)
+[![Shuaib's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yusuf-A-Shuaib&count_private=true&theme=react-dark&custom_title=Shuaib's%20Public%20Contribution%20Graph)](https://github.com/Yusuf-A-Shuaib)
 
 
 </br>
 </hr>
 
-[![Shuaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf-A-Shuaib&count_private=true&show_icons=true&theme=merko)](https://github.com/Yusuf-A-Shuaib)
+[![Shuaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf-A-Shuaib&count_private=true&show_icons=true&theme=merko&custom_title=Shuaib's%20Public%20Contribution%20Graph)](https://github.com/Yusuf-A-Shuaib)
 
 
 
