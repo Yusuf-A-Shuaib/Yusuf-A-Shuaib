@@ -72,8 +72,8 @@ I'm a software engineer working on programs to improve software calibre and furt
 - Browse throught amazing <a href="https://twitter.com/Yusuf_A_Shuaib">tweets</a>
 - Incredible content on <a href="https://www.linkedin.com/in/shuaibudeen-yusuf-b3a2b0224">LinkedIN</a>
 - Want to discuss a project? <a href = "mailto:shuaibudeenyusuf@gmail.com?subject = Feedback&body = Message">Contact me</a>
-- Stay updated on all software news with <a href="https://shuaibresource.herokuapp.com/blog">Shuaib's Blog.</a>
-- Get quality network accessories from me @<a href="https://shuaibresource.herokuapp.com/shop">Resource shop</a>
+- Stay updated on all software news with <a href="https://shuaibresource.herokuapp.com/blog/page">Shuaib's Blog.</a>
+- Get quality network accessories from me @<a href="https://shuaibresource.herokuapp.com/shop/page">Resource shop</a>
 
 </br>
 </hr>
