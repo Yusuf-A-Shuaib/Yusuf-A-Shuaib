@@ -44,7 +44,8 @@ I'm a software engineer working on programs to improve software calibre and furt
 </br>
 </hr>
 
-[![Shuaib's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yusuf-A-Shuaib&count_private=true&theme=react-dark&custom_title=Shuaib's%20Public%20Contribution%20Graph)](https://github.com/Yusuf-A-Shuaib)
+
+[![My activity graph](https://activity-graph.herokuapp.com/graph?username=Yusuf-A-Shuaib&count_private=true&theme=react-dark&custom_title=Shuaib's%20Public%20Contribution%20Graph)](https://github.com/Yusuf-A-Shuaib)
 
 
 </br>
