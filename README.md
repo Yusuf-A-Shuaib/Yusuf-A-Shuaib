@@ -25,13 +25,13 @@ I'm a software engineer working on programs to improve software calibre and furt
 🔭 I’m currently working on building a large scalable security system with the sole mission of providing protection and risk-based solutions to clients ranging from corporations and government bodies to ultra-high-net-worth individual. This is a C++ based software which aim is to provide major security requirements which ranges from Surveillance, software counter measures, counter surveillance to Intelligence gathering which would revamp the security community and create a feel of safety at a more accessible and more secure level <a href="https://github.com/Yusuf-A-Shuaib">Learn more.</a>
 </br>
 
-🌱 I’m also learning computer penetration testing(pentesting) with the aim to ameliorate my networking and software engineering skills which would greatly impact how I tweak up defenses on softwares. I'm also preparing to take the CompTIA network+ examination.
+🌱 I’m also learning computer penetration testing(pentesting) with the aim to ameliorate my networking and software engineering skills which would greatly impact how I tweak up defenses on softwares. I'm preparing to take the CompTIA network+ examination.
 </br>
 
 👯 I’m looking to collaborate on more challenging projects. So, do you need an extra hand on a project? <a href="mailto:shuaibudeenyusuf@gmail.com">Let's Build 😉</a>
 </br>
 
-💬 Relation skills: I have worked as a manager in a Hotel which has really tested my Teamwork, planning and leadership skills. Where I have been able to solve problems and prove effective analytically under little to no supervision thus enabling me build long-lasting client relationships.
+💬 Relation skills: I have worked as a manager in a Hotel which really tested my Teamwork, planning and leadership skills. Where I have been able to solve problems and prove effective analytically under little to no supervision thus enabling me build long-lasting client relationships.
 </br>
 
 🏫 Education: Presently, I am a 200lv biochemistry student at a prestigious university (Ahmadu Bello University).
@@ -45,8 +45,8 @@ I'm a software engineer working on programs to improve software calibre and furt
 </hr>
 
 
-[![My activity graph](https://activity-graph.herokuapp.com/graph?username=Yusuf-A-Shuaib&count_private=true&theme=react-dark&custom_title=Shuaib's%20Public%20Contribution%20Graph)](https://github.com/Yusuf-A-Shuaib)
-
+<!-- [![My activity graph](https://activity-graph.herokuapp.com/graph?username=Yusuf-A-Shuaib&count_private=true&theme=react-dark&custom_title=Shuaib's%20Public%20Contribution%20Graph)](https://github.com/Yusuf-A-Shuaib)
+ -->
 
 </br>
 </hr>
@@ -61,7 +61,7 @@ I'm a software engineer working on programs to improve software calibre and furt
 
 📫 How to reach me: <a href="mailto:shuaibudeenyusuf@gmail.com">Send a message</a>
 </br>
-😄 Nicknames: nana, shubby</br>
+😄 Nicknames: Shubby</br>
 ⚡ Fun fact: After my senior secondary education I was into professional barbing which built my business management skills and also positively impact my customer communications and relations. </br>
 
 </br>
@@ -80,8 +80,7 @@ I'm a software engineer working on programs to improve software calibre and furt
 </hr>
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-A-Shuaib&theme=dark&langs_count=6&count_private=true&layout=compact)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)
- -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-A-Shuaib&theme=dark&langs_count=6&count_private=true&layout=compact)](https://github.com/Yusuf-A-Shuaib/Yusuf-A-Shuaib)
 
 
 
