@@ -59,7 +59,7 @@ I'm a software engineer working on programs to improve software calibre and furt
 </br>
 </hr>
 
-📫 How to reach me: <a href="mailto:shuaibudeenyusuf@gmail.com">Send a message</a>
+📫 How to reach me: <a href="mailto:OfficialYusufSA@hotmail.com">Send a message</a>
 </br>
 😄 Nicknames: Shubby</br>
 ⚡ Fun fact: After my senior secondary education I was into professional barbing which built my business management skills and also positively impact my customer communications and relations. </br>
@@ -72,7 +72,7 @@ I'm a software engineer working on programs to improve software calibre and furt
 
 - Browse throught amazing <a href="https://twitter.com/Yusuf_A_Shuaib">tweets</a>
 - Incredible content on <a href="https://www.linkedin.com/in/shuaibudeen-yusuf-b3a2b0224">LinkedIN</a>
-- Want to discuss a project? <a href = "mailto:shuaibudeenyusuf@gmail.com?subject = Feedback&body = Message">Contact me</a>
+- Want to discuss a project? <a href = "mailto:OfficialYusufSA@hotmail.com?subject = Feedback&body = Message">Contact me</a>
 - Stay updated on all software news with <a href="https://shuaibresource.herokuapp.com/blog/page">Shuaib's Blog.</a>
 - Get quality network accessories from me @<a href="https://shuaibresource.herokuapp.com/shop/page">Resource shop</a>
 
